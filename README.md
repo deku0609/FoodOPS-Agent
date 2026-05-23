@@ -186,13 +186,28 @@ The online evaluation workflow was used to test whether the assistant remained g
 
 The final online assistant achieved strong benchmark performance on the structured red-team test set after improving evaluation logic and grounding behavior.
 
-You can include screenshots of:
-- the dashboard
-- the chatbot interface
-- the evaluation summary
-- benchmark outputs
 
-inside the `docs/` folder and reference them here later.
+## Screenshots
+
+- Dashboard UI:
+<img width="1919" height="947" alt="dashboard ui" src="https://github.com/user-attachments/assets/9bc21a9c-11b8-4851-a429-eb2d555293c1" />
+
+- Final Chatbot UI:
+<img width="914" height="706" alt="online chatbot ui" src="https://github.com/user-attachments/assets/ab69bc79-41fb-42df-a68b-f047613c2630" />
+
+- Chatbot Evaluation for Accuracy and grounding:
+<img width="849" height="963" alt="online eval ss" src="https://github.com/user-attachments/assets/016abebd-ac7b-45d0-8034-f4afdf63b74a" />
+
+
+
+
+```md
+
+
+
+```
+
+
 
 ## Why This Project Matters
 
@@ -215,15 +230,7 @@ It also highlights an important practical lesson: building an AI assistant is no
 - Deploy the project publicly
 - Improve UI and documentation
 
-## Screenshots
 
-Add your screenshots inside the `docs/` folder and display them here later, for example:
-
-```md
-
-
-
-```
 
 ## Author
 
