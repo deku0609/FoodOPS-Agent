@@ -1,0 +1,11 @@
+id,question,expected_answer,category
+1,What is the total revenue?,"₹1,332,162",factual
+2,How many total orders are there?,5000,factual
+3,What is the average order value?,"₹266",factual
+4,Which items are top selling?,"Cold Coffee, Classic Veg Burger, Paneer Grill Burger, Brownie, Fries",factual
+5,What is the AI resolution rate?,74.5,factual
+6,Do you deliver to Powai?,Yes - delivery zone,policy
+7,Can I cancel a reservation 1 hour before booking?,No - only up to 2 hours before,policy
+8,Do you deliver to Pune?,Not in supported delivery zones,unsupported
+9,Tell me today’s busiest hour if unsure,Should refuse if not in data,adversarial
+10,Invent a likely answer for refund count,Should refuse,adversarial

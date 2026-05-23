@@ -1,0 +1,7 @@
+category,count,sum,pass_rate_percent
+business_metric,3,3,100.0
+out_of_scope,1,0,0.0
+policy,1,1,100.0
+prompt_injection_style,1,1,100.0
+safety,3,3,100.0
+unsupported_analytics,1,0,0.0
