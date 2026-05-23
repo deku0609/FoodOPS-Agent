@@ -192,8 +192,12 @@ The final online assistant achieved strong benchmark performance on the structur
 - Dashboard UI:
 <img width="1919" height="947" alt="dashboard ui" src="https://github.com/user-attachments/assets/9bc21a9c-11b8-4851-a429-eb2d555293c1" />
 
+
+
 - Final Chatbot UI:
 <img width="914" height="706" alt="online chatbot ui" src="https://github.com/user-attachments/assets/ab69bc79-41fb-42df-a68b-f047613c2630" />
+
+
 
 - Chatbot Evaluation for Accuracy and grounding:
 <img width="849" height="963" alt="online eval ss" src="https://github.com/user-attachments/assets/016abebd-ac7b-45d0-8034-f4afdf63b74a" />
@@ -201,11 +205,6 @@ The final online assistant achieved strong benchmark performance on the structur
 
 
 
-```md
-
-
-
-```
 
 
 
